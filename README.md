@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,gitlab,vim,ideas)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,gitlab,vim,idea)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=ansible,jenkins)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,unreal,cmake,rust)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,azure,powershell)](https://github.com/robertorussobob)<br />
