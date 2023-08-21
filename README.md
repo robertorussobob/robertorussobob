@@ -4,6 +4,10 @@
 [![My Skills](https://skillicons.dev/icons?i=ansible,jenkins)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,unreal,cmake,rust)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,azure,powershell)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,selenium)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,spring,idea)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,haxe,kotlin,androidstudio)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,prometheus,grafana,dynamodb,mongodb,kafka,nginx,rabbitmq)](https://github.com/robertorussobob)<br />
 
 <!--
 **robertorussobob/robertorussobob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
