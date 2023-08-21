@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+ 
+<table style="border-collapse:collapse;">
+<thead>
+<tr>
+<th>foo</th>
+<th>bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Productivity</td>
+<td><img src="https://skillicons.dev/icons?i=linux,bash,vim,gitlab" /></td>
+</tr>
+</tbody>
+</table>
+
+
+
 <div>
 <span style="vertical-align:middle">Productivity</span>
 <img style="vertical-align:middle" src="https://skillicons.dev/icons?i=linux,bash,vim,gitlab" />
