@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,gitlab)](https://github.com/robertorussobob)<br />
-[![My Skills](https://skillicons.dev/icons?i=ansible,jenkins)](https://github.com/robertorussobob)
+[![My Skills](https://skillicons.dev/icons?i=ansible,jenkins)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,unreal,cmake,rust)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,azure,powershell)](https://github.com/robertorussobob)<br />
+
 <!--
 **robertorussobob/robertorussobob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
