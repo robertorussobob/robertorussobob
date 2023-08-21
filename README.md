@@ -1,33 +1,11 @@
 ### Hi there 👋
 
- 
-<table style="border-collapse:collapse;">
-<thead>
-<tr>
-<th>foo</th>
-<th>bar</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Productivity</td>
-<td><img src="https://skillicons.dev/icons?i=linux,bash,vim,gitlab" /></td>
-</tr>
-</tbody>
-</table>
-
-
-
-<div>
-<span style="vertical-align:middle">Productivity</span>
-<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=linux,bash,vim,gitlab" />
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,gitlab,vim,ideas)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=ansible,jenkins)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,unreal,cmake,rust)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,azure,powershell)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,flask,selenium)](https://github.com/robertorussobob)<br />
-[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,spring,idea)](https://github.com/robertorussobob)<br />
+[![My Skills](https://skillicons.dev/icons?i=java,maven,gradle,spring)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=go,ruby,haxe,kotlin,androidstudio)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,prometheus,grafana,kafka,nginx,rabbitmq)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,dynamodb,redis)](https://github.com/robertorussobob)<br />
