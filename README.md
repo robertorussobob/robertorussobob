@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,vim,gitlab)](https://github.com/robertorussobob)<br />
+<div>
+<span style="vertical-align:middle">Productivity</span>
+<img style="vertical-align:middle" src="https://skillicons.dev/icons?i=linux,bash,vim,gitlab" />
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=ansible,jenkins)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,unreal,cmake,rust)](https://github.com/robertorussobob)<br />
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,azure,powershell)](https://github.com/robertorussobob)<br />
